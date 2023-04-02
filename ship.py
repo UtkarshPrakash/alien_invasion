@@ -1,8 +1,6 @@
 import os 
 import pygame
 
-os.chdir('E:/Programming/GitHub/alien_invasion')
-
 class Ship():
     def __init__(self, screen):
         """Initialize the ship and set its starting position"""
